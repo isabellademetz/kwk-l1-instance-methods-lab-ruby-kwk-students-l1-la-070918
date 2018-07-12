@@ -18,6 +18,6 @@ end
 if sit
   puts "The Dog is Sitting"
 end
-def Dog(bark)
+
 
   
