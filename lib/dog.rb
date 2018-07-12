@@ -1,13 +1,14 @@
 # dog.rb
-def Dog(bark, sit)
-  @bark = bark
-  @sit = sit
+def Dog(#bark, #sit)
+ def initialize(bark, sit)
+  @#bark = #bark
+  @#sit = #sit
 end
-def bark
-  @bark
+def #bark
+  @#bark
 end
-def sit
-  @sit
+def #sit
+  @#sit
 end
 if 
   
