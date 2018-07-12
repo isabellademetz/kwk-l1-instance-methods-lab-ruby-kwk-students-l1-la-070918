@@ -4,10 +4,11 @@ class Dog
   @bark = bark
   @sit = sit
 end
+
 def bark
   @bark
 if bark
-  puts "woof"
+  puts "Woof!"
 end
   
 def sit
