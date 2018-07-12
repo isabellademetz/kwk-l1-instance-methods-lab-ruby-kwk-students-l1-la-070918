@@ -7,8 +7,14 @@ end
 def bark
   @bark
 end
+
+if bark
+  puts "woof"
+  
 def sit
   @sit
 end
+if sit
+  puts "The Dog is Sitting"
 
   
