@@ -10,11 +10,14 @@ end
 
 if bark
   puts "woof"
+end
   
 def sit
   @sit
 end
 if sit
   puts "The Dog is Sitting"
+end
+def Dog(bark)
 
   
