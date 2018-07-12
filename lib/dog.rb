@@ -1,2 +1,5 @@
 # dog.rb
-def Dog
+def Dog(bark, sit)
+  @bark = bark
+  @sit = sit
+  
